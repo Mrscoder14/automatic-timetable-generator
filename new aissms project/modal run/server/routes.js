@@ -1,3 +1,4 @@
+
 import express from 'express';
 import { Teacher } from './models/Teacher.js';
 import { Subject } from './models/Subject.js';

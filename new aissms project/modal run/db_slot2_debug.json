@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "69b2fffae990cc6f06a25f5e",
+    "slotId": "2",
+    "day": "Mon",
+    "type": "practical",
+    "subjectId": "2a2gz4",
+    "teacherId": "4",
+    "roomId": "303",
+    "batchId": "3",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f60",
+    "slotId": "2",
+    "day": "Mon",
+    "type": "practical",
+    "subjectId": "3kun9w",
+    "teacherId": "t-1772901686652",
+    "roomId": "224",
+    "batchId": "2",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f62",
+    "slotId": "2",
+    "day": "Tue",
+    "type": "practical",
+    "subjectId": "3kun9w",
+    "teacherId": "t-1772901686652",
+    "roomId": "303",
+    "batchId": "1",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f64",
+    "slotId": "2",
+    "day": "Tue",
+    "type": "practical",
+    "subjectId": "1yf1va",
+    "teacherId": "t-1773327745777",
+    "roomId": "224",
+    "batchId": "2",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f66",
+    "slotId": "2",
+    "day": "Tue",
+    "type": "practical",
+    "subjectId": "5tuysq",
+    "teacherId": "5",
+    "roomId": "225",
+    "batchId": "3",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f68",
+    "slotId": "2",
+    "day": "Wed",
+    "type": "practical",
+    "subjectId": "3kun9w",
+    "teacherId": "t-1772901686652",
+    "roomId": "303",
+    "batchId": "1",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f6b",
+    "slotId": "2",
+    "day": "Thu",
+    "type": "lecture",
+    "subjectId": "3kun9w",
+    "teacherId": "t-1772901686652",
+    "roomId": "320",
+    "batchId": "All",
+    "year": "Second Year",
+    "__v": 0
+  },
+  {
+    "_id": "69b2fffae990cc6f06a25f6c",
+    "slotId": "2",
+    "day": "Fri",
+    "type": "lecture",
+    "subjectId": "3kun9w",
+    "teacherId": "t-1772901686652",
+    "roomId": "320",
+    "batchId": "All",
+    "year": "Second Year",
+    "__v": 0
+  }
+]

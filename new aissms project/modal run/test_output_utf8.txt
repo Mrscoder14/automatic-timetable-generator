@@ -1,0 +1,67 @@
+﻿Generating timetable for Third Year...
+node.exe : Standard 
+generation incomplete. 
+Unplaced: 28
+At C:\Program 
+Files\nodejs\npx.ps1:29 
+char:3
++   & $NODE_EXE 
+$NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (S  
+  tandard genera...e. U   
+ nplaced: 28:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+Generated 55 allocations.
+
+Timetable Matrix (8:10 - 12:30):
+Slot | Mon      | Tue      | Wed      | Thu      | Fri      |
+------------------------------------------------------------
+1    | s1       | s1       | s4       | s1       | s4       | 
+2    | s3       | s4       | s1       | s3       | s1       | 
+3    | P:b1,b2  | P:b3,b2  | P:b1,b2  | P:b1,b2  | P:b1,b2  | 
+4    | P:b1,b2  | P:b3,b2  | P:b1,b2  | P:b1,b2  | P:b1,b2  | 
+
+VERIFICATION FAILED:
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 3 on Mon
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 4 on Mon
+ - Batch A missing 
+PRACTICAL in mandatory 
+slot 3 on Tue
+ - Batch A missing 
+PRACTICAL in mandatory 
+slot 4 on Tue
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 3 on Wed
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 4 on Wed
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 3 on Thu
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 4 on Thu
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 3 on Fri
+ - Batch C missing 
+PRACTICAL in mandatory 
+slot 4 on Fri
+ - Subject S3 (L4, P4): 
+Covered only 6/12 
+practical hours
+ - Subject S5 (L0, P6): 
+Covered only 16/18 
+practical hours
